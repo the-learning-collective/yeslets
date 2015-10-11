@@ -7,6 +7,7 @@ Create a database and a user for the database. Start `psql`.
 ```(sql)
     CREATE USER yeslets
     CREATE DATABASE yeslets WITH OWNER = yeslets
+```
 
 Use the schema to make tables like so: `schema > psql yeslets'
 
