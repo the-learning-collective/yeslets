@@ -1,22 +1,28 @@
-DROP TABLE IF EXISTS users CASCADE;
-CREATE TABLE users (
+DROP TABLE IF EXISTS persons CASCADE;
+CREATE TABLE persons (
 	id serial primary key,
-	name text,
-	email text,
-        password text,
-	created_at timestamptz );
+	name text not null,
+	email text not null,
+        password text not null,
+	created_at timestamptz,
+        updated_at timestamptz);
 
 DROP TABLE IF EXISTS signals CASCADE;
 CREATE TABLE signals (
 	id serial primary key,
-	user_id integer references users(id),
-	action text,
+	person_id integer references persons(id) not null,
+	action text not null,
 	topic text,
-	created_at timestamptz );
+	created_at timestamptz,
+        updated_at timestamptz);
 
 DROP TABLE IF EXISTS yesletses CASCADE;
 CREATE TABLE yesletses (
 	id serial primary key,
-	signal_id integer references signals(id),
-	user_id integer references users(id),
-	created_at timestamptz); 
+	person_id integer references signals(id),
+	user_id integer references persons(id),
+	created_at timestamptz,
+        updated_at timestamptz); 
+
+DROP SEQUENCE IF EXISTS person_ids;
+CREATE SEQUENCE person_ids START 1;

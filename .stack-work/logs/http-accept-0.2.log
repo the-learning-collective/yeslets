@@ -1,0 +1,60 @@
+Configuring http-accept-0.2...
+Building http-accept-0.2...
+Preprocessing library http-accept-0.2...
+[1 of 1] Compiling Network.HTTP.Accept ( Network/HTTP/Accept.hs, .stack-work/dist/x86_64-osx/Cabal-1.22.4.0/build/Network/HTTP/Accept.o )
+
+Network/HTTP/Accept.hs:16:1: Warning: Tab character
+
+Network/HTTP/Accept.hs:19:1: Warning: Tab character
+
+Network/HTTP/Accept.hs:20:1: Warning: Tab character
+
+Network/HTTP/Accept.hs:21:1: Warning: Tab character
+
+Network/HTTP/Accept.hs:22:1: Warning: Tab character
+
+Network/HTTP/Accept.hs:23:1: Warning: Tab character
+
+Network/HTTP/Accept.hs:26:1: Warning: Tab character
+
+Network/HTTP/Accept.hs:29:1: Warning: Tab character
+
+Network/HTTP/Accept.hs:30:1: Warning: Tab character
+
+Network/HTTP/Accept.hs:31:1: Warning: Tab character
+
+Network/HTTP/Accept.hs:32:1: Warning: Tab character
+
+Network/HTTP/Accept.hs:36:1: Warning: Tab character
+
+Network/HTTP/Accept.hs:48:1: Warning: Tab character
+
+Network/HTTP/Accept.hs:49:1: Warning: Tab character
+
+Network/HTTP/Accept.hs:50:1: Warning: Tab character
+
+Network/HTTP/Accept.hs:52:1: Warning: Tab character
+
+Network/HTTP/Accept.hs:53:1: Warning: Tab character
+
+Network/HTTP/Accept.hs:54:1: Warning: Tab character
+
+Network/HTTP/Accept.hs:55:1: Warning: Tab character
+
+Network/HTTP/Accept.hs:56:1: Warning: Tab character
+
+Network/HTTP/Accept.hs:57:1: Warning: Tab character
+
+Network/HTTP/Accept.hs:58:1: Warning: Tab character
+
+Network/HTTP/Accept.hs:62:1: Warning: Tab character
+
+Network/HTTP/Accept.hs:63:1: Warning: Tab character
+
+Network/HTTP/Accept.hs:68:1: Warning: Tab character
+
+Network/HTTP/Accept.hs:69:1: Warning: Tab character
+In-place registering http-accept-0.2...
+Installing library in
+/Users/libby/dev/yeslets/.stack-work/install/x86_64-osx/lts-3.10/7.10.2/lib/x86_64-osx-ghc-7.10.2/http-accept-0.2-AdZojmVPZ1TEPbWaat1ud4
+Registering http-accept-0.2...

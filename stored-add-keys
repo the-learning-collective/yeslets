@@ -1,0 +1,17 @@
+DROP FUNCTION IF EXISTS on_api_key_insert() CASCADE;
+CREATE FUNCTION on_api_insert() RETURNS trigger AS $$
+  DECLARE
+    id_sequence VARCHAR;
+  BEGIN
+    SELECT TG_ARGV[0] INTO id_sequence;
+    NEW.id := nextval(id_sequence);
+    NEW.key := ### GENERATE A KEY HERE ###;
+    NEW.created_at := now();
+    NEW.updated_at := now();
+  END
+$$ LANGUAGE plpgsql;
+
+CREATE TRIGGER api_keys_insert
+  BEFORE INSERT ON api_keys
+  FOR EACH ROW
+  EXECUTE PROCEDURE on_api_key_insert('api_key_ids');

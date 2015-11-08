@@ -1,0 +1,122 @@
+Configuring wai-util-0.8...
+Building wai-util-0.8...
+Preprocessing library wai-util-0.8...
+[1 of 1] Compiling Network.Wai.Util ( Network/Wai/Util.hs, .stack-work/dist/x86_64-osx/Cabal-1.22.4.0/build/Network/Wai/Util.o )
+
+Network/Wai/Util.hs:3:1: Warning: Tab character
+
+Network/Wai/Util.hs:4:1: Warning: Tab character
+
+Network/Wai/Util.hs:5:1: Warning: Tab character
+
+Network/Wai/Util.hs:6:1: Warning: Tab character
+
+Network/Wai/Util.hs:7:1: Warning: Tab character
+
+Network/Wai/Util.hs:8:1: Warning: Tab character
+
+Network/Wai/Util.hs:9:1: Warning: Tab character
+
+Network/Wai/Util.hs:10:1: Warning: Tab character
+
+Network/Wai/Util.hs:11:1: Warning: Tab character
+
+Network/Wai/Util.hs:12:1: Warning: Tab character
+
+Network/Wai/Util.hs:13:1: Warning: Tab character
+
+Network/Wai/Util.hs:14:1: Warning: Tab character
+
+Network/Wai/Util.hs:15:1: Warning: Tab character
+
+Network/Wai/Util.hs:16:1: Warning: Tab character
+
+Network/Wai/Util.hs:17:1: Warning: Tab character
+
+Network/Wai/Util.hs:18:1: Warning: Tab character
+
+Network/Wai/Util.hs:19:1: Warning: Tab character
+
+Network/Wai/Util.hs:20:1: Warning: Tab character
+
+Network/Wai/Util.hs:21:1: Warning: Tab character
+
+Network/Wai/Util.hs:22:1: Warning: Tab character
+
+Network/Wai/Util.hs:59:1: Warning: Tab character
+
+Network/Wai/Util.hs:60:1: Warning: Tab character
+
+Network/Wai/Util.hs:61:1: Warning: Tab character
+
+Network/Wai/Util.hs:62:1: Warning: Tab character
+
+Network/Wai/Util.hs:63:1: Warning: Tab character
+
+Network/Wai/Util.hs:64:1: Warning: Tab character
+
+Network/Wai/Util.hs:65:1: Warning: Tab character
+
+Network/Wai/Util.hs:66:1: Warning: Tab character
+
+Network/Wai/Util.hs:94:1: Warning: Tab character
+
+Network/Wai/Util.hs:95:1: Warning: Tab character
+
+Network/Wai/Util.hs:108:1: Warning: Tab character
+
+Network/Wai/Util.hs:109:1: Warning: Tab character
+
+Network/Wai/Util.hs:114:1: Warning: Tab character
+
+Network/Wai/Util.hs:115:1: Warning: Tab character
+
+Network/Wai/Util.hs:120:1: Warning: Tab character
+
+Network/Wai/Util.hs:121:1: Warning: Tab character
+
+Network/Wai/Util.hs:126:1: Warning: Tab character
+
+Network/Wai/Util.hs:127:1: Warning: Tab character
+
+Network/Wai/Util.hs:130:1: Warning: Tab character
+
+Network/Wai/Util.hs:133:1: Warning: Tab character
+
+Network/Wai/Util.hs:136:1: Warning: Tab character
+
+Network/Wai/Util.hs:141:1: Warning: Tab character
+
+Network/Wai/Util.hs:142:1: Warning: Tab character
+
+Network/Wai/Util.hs:149:1: Warning: Tab character
+
+Network/Wai/Util.hs:150:1: Warning: Tab character
+
+Network/Wai/Util.hs:151:1: Warning: Tab character
+
+Network/Wai/Util.hs:152:1: Warning: Tab character
+
+Network/Wai/Util.hs:153:1: Warning: Tab character
+
+Network/Wai/Util.hs:154:1: Warning: Tab character
+
+Network/Wai/Util.hs:162:1: Warning: Tab character
+
+Network/Wai/Util.hs:167:1: Warning: Tab character
+
+Network/Wai/Util.hs:168:1: Warning: Tab character
+
+Network/Wai/Util.hs:195:1: Warning: Tab character
+
+Network/Wai/Util.hs:196:1: Warning: Tab character
+
+Network/Wai/Util.hs:197:1: Warning: Tab character
+
+Network/Wai/Util.hs:198:1: Warning: Tab character
+
+Network/Wai/Util.hs:199:1: Warning: Tab character
+In-place registering wai-util-0.8...
+Installing library in
+/Users/libby/dev/yeslets/.stack-work/install/x86_64-osx/lts-3.10/7.10.2/lib/x86_64-osx-ghc-7.10.2/wai-util-0.8-Fm1gqgGINS5Hi2WatT0KXZ
+Registering wai-util-0.8...

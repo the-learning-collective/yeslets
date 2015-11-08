@@ -1,7 +1,0 @@
-%syntax-version=1.0.0
-%project=yeslets
-
-appschema 2015-10-11T19:55:25Z Elizabeth Horacek <libby@Elizabeths-MacBook-Pro.local> # Add schema for yeslets
-yeslets 2015-10-11T20:21:43Z Elizabeth Horacek <libby@Elizabeths-MacBook-Pro.local> # Add the yeslets tables
-v1schema 2015-10-11T21:50:33Z Elizabeth Horacek <libby@Elizabeths-MacBook-Pro.local> # Adding API v1 schema
-v1views 2015-10-11T21:52:01Z Elizabeth Horacek <libby@Elizabeths-MacBook-Pro.local> # Adding API v1 views
