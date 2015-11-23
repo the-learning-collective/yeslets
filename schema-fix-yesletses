@@ -1,0 +1,7 @@
+DROP TABLE IF EXISTS yesletses CASCADE;
+CREATE TABLE yesletses (
+	id serial primary key,
+	signal_id integer references signals(id),
+	person_id integer references persons(id),
+	created_at timestamptz,
+        updated_at timestamptz);
